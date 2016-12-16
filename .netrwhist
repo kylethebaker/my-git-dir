@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/kyle/.config/lftp'
+let g:netrw_dirhist_2='/srv/vhosts/drupal.lua/www/octahedron/core/lib/Drupal'
+let g:netrw_dirhist_3='/srv/vhosts/drupal.lua/www/octahedron/core/lib'
+let g:netrw_dirhist_4='/home/kyle/random/termcolors'
+let g:netrw_dirhist_5='/home/kyle/.config/fontconfig'
