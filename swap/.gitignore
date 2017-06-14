@@ -1,0 +1,3 @@
+# we want to ignore everything in this directory, but we still want it tracked
+# so that swap/backup files can be created
+!.gitignore
