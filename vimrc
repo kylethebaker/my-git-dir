@@ -23,7 +23,7 @@ set number
 set undolevels=1000
 set nowrap
 set list
-set listchars=tab:܁܁
+set listchars=tab:··
 set listchars+=extends:»,precedes:«
 set listchars+=trail:◥
 "·•◦܁
