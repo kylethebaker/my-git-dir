@@ -38,6 +38,9 @@ set hidden
 set backupdir=~/.vim/backup/
 set directory=~/.vim/swap/
 
+" ignore non-code directories from ctrlp
+let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
+
 " default filetype indent options
 set autoindent
 set expandtab
